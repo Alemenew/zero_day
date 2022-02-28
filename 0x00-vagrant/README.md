@@ -1,0 +1,1 @@
+ssh into my Ubuntu VM. and I run this command "uname" and i get Linux
